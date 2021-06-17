@@ -1,5 +1,5 @@
 # # Project 4: West Nile Virus presence analysis
-**Clarence Thng, Thomas Lim, Liew Chin Xia**
+**By Clarence Thng, Thomas Lim, Liew Chin Xia**
 
 ### Problem Statement
 
